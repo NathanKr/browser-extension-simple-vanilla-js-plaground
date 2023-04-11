@@ -1,0 +1,1 @@
+# web-extension-vanilla-js-plaground
