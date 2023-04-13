@@ -1,11 +1,11 @@
 {
-    "name" : "My Extension Name",
-    "version" : "1.0.0",
-    "description" : "My Extension Description",
-    "manifest_version" : 3,
-    "author" : "Nathan Krasney" ,
-    "action" : {
-        "default_popup" : "index.html",
-        "default_title" : "My action title"
-    }
+  "name": "My Extension Name",
+  "version": "1.0.0",
+  "description": "My Extension Description",
+  "manifest_version": 3,
+  "author": "Nathan Krasney",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "My action title"
+  }
 }
