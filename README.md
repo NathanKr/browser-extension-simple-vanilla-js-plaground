@@ -10,7 +10,6 @@ Build most simple web extension and install in chrome and firefox
 
 <h2>Instll the extension on chrome</h2>
 <ol>
-<li>open new tab in chrome</li>
 <li>navigate to More tools->Extensions->Turn on developer mode->Load unpacked->select the folder of your extension. Now the extetion is installed</li>
 <li>open new tab in chrome->click on extensions icon->choose "My Extension Name"</li>
 <li>pin the extension via Chrome->Extensions</li>
