@@ -22,6 +22,12 @@ Build most simple web extension and install in chrome and firefox
 <li>click on extensions icon->choose "My Extension Name"</li>
 </ol>
 
+<h2>Points of interest</h2>
+<ul>
+<li>vite is not required for the extension. you can use it for npm run dev regardless of the extension</li>
+</ul>
+
+
 <h2>Open issues</h2>
 <ul>
 <li>why import './style.css' cause the extension to load small empty reactangle. Inline styling does work</li>
